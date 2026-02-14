@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/grid.mitsmediaclub.com.ico",
     "slug": "grid-platform",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 1046,
-    "timeWeek": 803,
-    "timeMonth": 957,
-    "timeYear": 957,
-    "dailyMinutesDown": {}
+    "uptime": "99.83%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 963,
+    "timeDay": 1034,
+    "timeWeek": 830,
+    "timeMonth": 963,
+    "timeYear": 963,
+    "dailyMinutesDown": {
+      "2026-02-14": 26
+    }
   }
 ]
